@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d494cc8d78f95b9e416d943677f38295",
+    "revision": "4b8f356fd7e9d7f8d5b9a00957961bcc",
     "url": "/reactdark/index.html"
   },
   {
-    "revision": "ac3b80da1f4d91120502",
+    "revision": "134e8182198ef831be82",
     "url": "/reactdark/static/css/main.a1564490.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reactdark/static/js/2.14a30e4d.chunk.js"
   },
   {
-    "revision": "ac3b80da1f4d91120502",
-    "url": "/reactdark/static/js/main.32194931.chunk.js"
+    "revision": "134e8182198ef831be82",
+    "url": "/reactdark/static/js/main.7e843124.chunk.js"
   },
   {
     "revision": "3ec709890cce1b91671a",
